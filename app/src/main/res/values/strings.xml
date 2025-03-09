@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasWeekSatu</string>
+    <string name="hint_enter_name">Masukkan Nama</string>
+    <string name="button_say_hello">SAY HELLO</string>
+    <string name="profile_picture">Foto Profil</string>
+
+    <string name="hello_message">Hello, %s!</string>
+    <string name="empty_name_warning">Masukkan Nama Dulu!</string>
+</resources>
